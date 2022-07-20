@@ -77,6 +77,8 @@ Control your snake and avoid collusion!
 
 - We use the function getCollisionDistance() to determine whether we will collide soon(i.e. in danger)
 - If we are in danger, we use DesideTurnDirection() to decide whether we should turn left or right
+- We always turn to the direction that is farest from the obstacle in front of us
+- If we start to loop, decrease the turing radius of the snake
 
 ## A little preview of the game
 

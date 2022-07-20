@@ -34,3 +34,5 @@
 # Xcode
 DSAP-Final.xcodeproj/*
 
+# macOS
+.DS_Store
