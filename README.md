@@ -45,6 +45,10 @@ Control your snake and avoid collusion!
 │   └── Resources
 │       └── arial.ttf
 ├── README.md
+├── img
+│   ├── TypeA.png
+│   ├── TypeB.png
+│   └── TypeC.png
 └── src
     ├── Config.h
     ├── ConstantDirectionController.h
@@ -60,15 +64,13 @@ Control your snake and avoid collusion!
     ├── PlayerController.h
     ├── Position.cpp
     ├── Position.h
-    ├── Resources
-    │   └── arial.ttf
     ├── Snake.cpp
     ├── Snake.h
     ├── StraightForwardController.cpp
     ├── StraightForwardController.h
     └── main.cpp
 
-4 directories, 24 files
+4 directories, 26 files
 ```
 
 ## Default algorithm introduction
