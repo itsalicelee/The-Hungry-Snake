@@ -1,15 +1,15 @@
 # The-Hungry-Snake 🐍
 
-Define your snake controller and avoid collusion!
+Control your snake and avoid collusion!
 
 - 🌴 This is the final project of Data Structure instructed by Prof. Ken-Yi Lee at National Taiwan University
 - 🥇 Our algorithm is rated 1st/41 teams
-- 🎥 Watch our final project demo competition[here](https://www.youtube.com/watch?v=RwqK-bDCWtg&ab_channel=FeisLee)
+- 🎥 Watch our final project demo competition [here](https://www.youtube.com/watch?v=RwqK-bDCWtg&ab_channel=FeisLee)
 
 ## Usage
 
 - Set up the environment for using [SFML](https://www.sfml-dev.org/) on your IDE
-  - macOS users need to download [SFML for macOS](https://www.sfml-dev.org/download/sfml/2.5.1/)
+  - macOS users need to download [SFML for macOS](https://www.sfml-dev.org/download/sfml/2.5.1/), make sure the project has access to your keyboard at privacy setting
   - [Xcode](https://blog.csdn.net/ilovestarbucks/article/details/124425801)
   - [Dev C++](https://programming727.pixnet.net/blog/post/24516428-c++-%E8%A8%AD%E7%BD%AE-sfml-dev-c++)
   - [Visual Studio](http://n.sfs.tw/content/index/14725#azm)
