@@ -1,10 +1,10 @@
-# The-Hungry-Snake
+# The-Hungry-Snake 🐍
 
-Define your snake controller and avoid collusion!🐍
+Define your snake controller and avoid collusion!
 
-🌴 This is the final project of Data Structure instructed by Prof. Ken-Yi Lee at National Taiwan University
-🥇 Our algorithm is rated 1st/41 teams
-🎥 Watch our final project demo competition[here](https://www.youtube.com/watch?v=RwqK-bDCWtg&ab_channel=FeisLee)
+- 🌴 This is the final project of Data Structure instructed by Prof. Ken-Yi Lee at National Taiwan University
+- 🥇 Our algorithm is rated 1st/41 teams
+- 🎥 Watch our final project demo competition[here](https://www.youtube.com/watch?v=RwqK-bDCWtg&ab_channel=FeisLee)
 
 ## Usage
 
@@ -37,6 +37,7 @@ Define your snake controller and avoid collusion!🐍
 
 ## Folder structure
 
+``` shell
 .
 ├── CMakeLists.txt
 ├── DSAP-Final
@@ -68,6 +69,7 @@ Define your snake controller and avoid collusion!🐍
     └── main.cpp
 
 4 directories, 24 files
+```
 
 ## Default algorithm introduction
 
@@ -76,6 +78,6 @@ Define your snake controller and avoid collusion!🐍
 
 ## A little preview of the game
 
-[TypeA](./img/TypeA.png)
-[TypeB](./img/TypeB.png)
-[TypeB](./img/TypeC.png)
+![TypeA](./img/TypeA.png)
+![TypeB](./img/TypeB.png)
+![TypeB](./img/TypeC.png)
